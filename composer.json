@@ -1,5 +1,5 @@
 {
-    "name": "vyuldashev/nova-permission",
+    "name": "vyuldashev/my-nova-permission",
     "description": "A Laravel Nova tool for Spatie's Permission library.",
     "keywords": [
         "laravel",
@@ -7,6 +7,12 @@
         "spatie-permission"
     ],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "VnoT",
+            "email": "sivnot2023@gmail.com"
+        }
+    ],
     "require": {
         "php": "^7.4|^8.0",
         "laravel/nova": "^4.0",
